@@ -2,7 +2,6 @@
 *.pkl
 *.txt
 *.csv
-*.h5
 *.npy
 *.npz
 .vscode/
