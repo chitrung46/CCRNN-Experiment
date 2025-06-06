@@ -167,8 +167,6 @@ class EvoNN2(nn.Module):
         self.graph1 = None
         self.graph2 = None
 
-
-
     def forward(self, inputs: Tensor, targets: Tensor = None, batch_seen: int = None) -> Tensor:
         graph = list()
         nodevec1 = self.nodevec1

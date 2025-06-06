@@ -1,0 +1,9 @@
+# data
+*.pkl
+*.txt
+*.csv
+*.npy
+*.npz
+.vscode/
+runs/
+saves/
